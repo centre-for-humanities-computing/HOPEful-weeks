@@ -7,7 +7,7 @@
 We ran the pipeline on more newspapers and updated to recent news:
 
 <p>
-	<img src="fig/da_berglinske-print-091820-7_adaptline.png" alt="Berlingske">
+	<img src="fig/da_berglinske-print-091820-7_adaptline.png" alt="Berlingske" width="200">
 	<em>Berlingske, previously known as Berlingske Tidende, is a Danish national daily newspaper based in Copenhagen.</em>
 </p>
 
