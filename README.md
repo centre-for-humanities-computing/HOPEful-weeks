@@ -83,11 +83,44 @@ Sentiment scores are acquired using VADER.
 
 ### Persistence of Affective States ###
 
-
-
 <p>
 	<img src="fig/da_berglinske-print_h_global_sentiment.png" alt="Berlingske-global">
 	<img src="fig/da_berglinske-print_h_wbase_sentiment.png" alt="Berlingske-event-global">
 	<img src="fig/da_berglinske-print_mxw_signal_sentiment.png" alt="Berlingske-local">
 	<em>Berlingske, previously known as Berlingske Tidende, is a Danish national daily newspaper based in Copenhagen.</em>
+</p>
+
+<p>
+	<img src="fig/da_jyllands-posten-print_h_global_sentiment.png" alt="Jyllands-Posten-global">
+	<img src="fig/da_jyllands-posten-print_h_wbase_sentiment.png" alt="Jyllands-Posten-event-global">
+	<img src="fig/da_jyllands-posten-print_mxw_signal_sentiment.png" alt="Jyllands-Posten">
+	<em>Morgenavisen Jyllands-Posten, commonly shortened to Jyllands-Posten or JP, is a Danish daily broadsheet newspaper.</em>
+</p>
+
+<p>
+	<img src="fig/da_kristeligt-dagblad-print_h_global_sentiment.png" alt="Kristeligt Dagblad-global">
+	<img src="fig/da_kristeligt-dagblad-print_h_wbase_sentiment.png" alt="Kristeligt Dagblad-event-global">
+	<img src="fig/da_kristeligt-dagblad-print_mxw_signal_sentiment.png" alt="Kristeligt Dagblad">
+	<em>Kristeligt Dagblad is a Danish newspaper in Copenhagen, Denmark.</em>
+</p>
+
+<p>
+	<img src="fig/da_politiken-print_h_global_sentiment.png" alt="Politiken-global">
+	<img src="fig/da_politiken-print_h_wbase_sentiment.png" alt="Politiken-event-global">
+	<img src="fig/da_politiken-print_mxw_signal_sentiment.png" alt="Politiken">
+	<em>Politiken is a leading Danish daily broadsheet newspaper, published by JP/Politikens Hus in Copenhagen, Denmark.</em>
+</p>
+
+<p>
+	<img src="fig/da_bt-print_h_global_sentiment.png" alt="BT-global">
+	<img src="fig/da_bt-print_h_wbase_sentiment.png" alt="BT-event-global">
+	<img src="fig/da_bt-print_mxw_signal_sentiment.png" alt="BT">
+	<em>B.T. is a Danish tabloid newspaper which offers general news about various subjects such as sports, politics and current affairs.</em>
+</p>
+
+<p>
+	<img src="fig/da_ekstrabladet-print_h_global_sentiment.png" alt="Ekstrabladet-global">
+	<img src="fig/da_ekstrabladet-print_h_wbase_sentiment.png" alt="Ekstrabladet-event-global">
+	<img src="fig/da_ekstrabladet-print_mxw_signal_sentiment.png" alt="Ekstrabladet">
+	<em>Ekstra Bladet is a Danish tabloid newspaper, published by JP/Politikens Hus in Copenhagen.</em>
 </p>
