@@ -2,7 +2,7 @@
 
 ## Week 39 Summary ##
 
-### New Information Decoupling ###
+### News Information Decoupling ###
 
 We ran the pipeline on more newspapers and updated to recent news:
 
@@ -79,4 +79,15 @@ Sentiment scores are acquired using VADER.
 <p>
 	<img src="fig/Capture LDA.PNG" alt="Ekstrabladet">
 	<em>Front page LDA topic models.</em>
+</p>
+
+### Persistence of Affective States ###
+
+
+
+<p>
+	<img src="fig/da_berglinske-print_h_global_sentiment.png" alt="Berlingske-global">
+	<img src="fig/da_berglinske-print_h_wbase_sentiment.png" alt="Berlingske-event-global">
+	<img src="fig/da_berglinske-print_mxw_signal_sentiment.png" alt="Berlingske-local">
+	<em>Berlingske, previously known as Berlingske Tidende, is a Danish national daily newspaper based in Copenhagen.</em>
 </p>
