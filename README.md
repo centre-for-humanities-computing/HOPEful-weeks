@@ -36,6 +36,8 @@ We ran the pipeline on more newspapers and updated to recent news:
 	<em>Ekstra Bladet is a Danish tabloid newspaper, published by JP/Politikens Hus in Copenhagen.</em>
 </p>
 
+## Week 40 Summary ##
+
 ### Sentiment analysis of front pages ###
 
 Looked at the sentiment of front page articles in legacy media.  
@@ -80,6 +82,8 @@ Sentiment scores are acquired using VADER.
 	<img src="fig/Capture LDA.PNG" alt="Ekstrabladet">
 	<em>Front page LDA topic models.</em>
 </p>
+
+## Week 41-42 Summary ##
 
 ### Persistence of Affective States ###
 
@@ -138,7 +142,7 @@ Sentiment scores are acquired using VADER.
 </p>
 
 <p>
-	<img src="fig/fig/da_kristeligt-dagblad-print-091820-7_wbase.png" alt="Kristeligt Dagblad">
+	<img src="fig/da_kristeligt-dagblad-print-091820-7_wbase.png" alt="Kristeligt Dagblad">
 	<em>Kristeligt Dagblad is a Danish newspaper in Copenhagen, Denmark.</em>
 </p>
 
