@@ -125,7 +125,7 @@ Sentiment scores are acquired using VADER.
 <p>
 	<img src="fig/da_ekstrabladet-print_h_global_sentiment.png" alt="Ekstrabladet-global">
 	<img src="fig/da_ekstrabladet-print_h_wbase_sentiment.png" alt="Ekstrabladet-event-global">
-	<img src="fig/ursrda_ekstrabladet-print_mxw_signal_sentiment.png" alt="Ekstrabladet">
+	<img src="fig/da_ekstrabladet-print_mxw_signal_sentiment.png" alt="Ekstrabladet">
 	<em>Ekstra Bladet is a Danish tabloid newspaper, published by JP/Politikens Hus in Copenhagen.</em>
 </p>
 
