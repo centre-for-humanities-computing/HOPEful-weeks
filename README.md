@@ -160,3 +160,10 @@ Sentiment scores are acquired using VADER.
 	<img src="fig/da_ekstrabladet-print-091820-7_wbase.png" alt="Ekstrabladet">
 	<em>Ekstra Bladet is a Danish tabloid newspaper, published by JP/Politikens Hus in Copenhagen.</em>
 </p>
+
+## decoupling experiments ##
+
+<p>
+	<img src="fig/shortest_nxr_path.png" alt="dynamic time warping NxR">
+	<em>dynamic time warping (DTW) is a set of algorithms for calculating the optimal match between two time series</em>
+</p>
