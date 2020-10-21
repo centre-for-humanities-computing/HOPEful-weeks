@@ -167,3 +167,8 @@ Sentiment scores are acquired using VADER.
 	<img src="fig/shortest_nxr_path.png" alt="dynamic time warping NxR">
 	<em>dynamic time warping (DTW) is a set of algorithms for calculating the optimal match between two time series</em>
 </p>
+
+
+## COMMENTS ##
+RITUAL OF OBJECTIVITY vs. RITUAL OF EMOTIONALITY from journalism studies
+This is based on an abstract. But the full papers this refers to are https://researchportal.helsinki.fi/files/143104559/journalism_2020.pdf and https://researchportal.helsinki.fi/files/132723715/An_Approach_for_Agile_Interdisciplinary_Digital_Humanities_Research_a_Case_Study_in_Journalism.pdf (not exactly the same but includes a lot of the content) 
