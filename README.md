@@ -168,6 +168,44 @@ Sentiment scores are acquired using VADER.
 	<em>dynamic time warping (DTW) is a set of algorithms for calculating the optimal match between two time series</em>
 </p>
 
+## Anxiety survey preliminary results ##
+A survey about different measures related to people's feelings of anxiety were measured during the lockdown in Denmark. The responses to 15 questions are included in the analysis, from people from 8 countries residing within Denmark.
+
+<p>
+	<img src="fig/anxiety_number_of_responses_daily.png" alt="nr of responses">
+	<em>Data was collected with time intervals and at varying quantities</em>
+</p>
+
+<p>
+	<img src="fig/anxiety_mean_anxiety_per_question.png" alt="mean anxiety">
+	<em>Self reported anxiety on average per each question</em>
+</p>
+
+<p>
+	<img src="fig/anxiety_q3_fear_of_covid_consequences.png" alt="fear of consequences">
+	<em>Higher fear in Level 1 and Level 2 groups</em>
+</p>
+
+<p>
+	<img src="fig/anxiety_q3_fear_of_covid_consequences_nationality.png" alt="fear of consequences nationality-wise">
+	<em>Higher fear in Level 1 and Level 2 groups, more distinct country-based differences in Level 1 and Level 2, seems to be a downward trend</em>
+</p>
+
+<p>
+	<img src="fig/anxiety_q19_degree_of_concern_1.png" alt="degree of concern">
+	<em>Least concern for self, then close friends, family, and most concern for social unrest</em>
+</p>
+
+<p>
+	<img src="fig/anxiety_q19_degree_of_concern_2.png" alt="degree of concern2">
+	<em>Most concerned for economy, rest don't distinguish much</em>
+</p>
+
+<p>
+	<img src="fig/anxiety_q19_degree_of_concern_social_unrest.png" alt="social unrest">
+	<em>Social unrest was the only question that was asked both in the start and throughout the lockdown. Either the concern for social unrest went down a lot after the first round of questionnaires, or in the context of other questions being asked - social unrest was less of a concern (compared to exonomy)</em>
+</p>
+
 
 ## COMMENTS ##
 RITUAL OF OBJECTIVITY vs. RITUAL OF EMOTIONALITY from journalism studies
